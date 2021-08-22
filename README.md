@@ -15,9 +15,9 @@ git clone https://github.com/AsmInstrutor/cyber_sec.git
 
 cd cyber-tool1.0
 
-chmod +x cyber.sh
+chmod +x cyber-tool.sh
 
-./cyber.sh
+./cyber-tool.sh
 ```
 irá aparecer o menu inicial, para usar, basta digitar a opção desejada corretamente!
 
