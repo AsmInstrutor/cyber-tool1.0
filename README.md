@@ -7,6 +7,8 @@ pkg install git -y
  
 pkg install figlet -y
 
+apt-get install jq
+
 pkg install curl -y
  
 pkg install python -y && pip install lolcat
