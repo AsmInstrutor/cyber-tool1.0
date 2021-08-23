@@ -7,7 +7,7 @@ pkg install git -y
  
 pkg install figlet -y
 
-apt-get install jq
+apt-get install jq -y
 
 pkg install curl -y
  
